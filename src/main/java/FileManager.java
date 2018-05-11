@@ -51,4 +51,8 @@ public class FileManager {
             }
         }
     }
+
+    public void newUnnecessaryMethod(){
+        System.out.println("New method for git training");
+    }
 }
